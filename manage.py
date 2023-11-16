@@ -2,8 +2,7 @@
 # -*- coding: utf-8 -*-
 # vim: sw=4:ts=4:expandtab
 
-""" A script to manage development tasks """
-from os import path as p
+""" A script to manage devm, as p
 from subprocess import call, check_call, CalledProcessError
 from manager import Manager
 
